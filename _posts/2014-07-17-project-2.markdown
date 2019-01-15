@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: jewel_logo.png
+img: jewel_logo.jpg
 img1: jewel_home.jpg
 img2: jewel_product.jpg
 alt: image-alt
