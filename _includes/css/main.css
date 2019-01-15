@@ -12,6 +12,10 @@ body {
     border-radius: 50%;
 }
 
+.img-holder{
+    align-content: center;
+}
+
 p {
     font-size: 20px;
 }
