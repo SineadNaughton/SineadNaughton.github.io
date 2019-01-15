@@ -21,6 +21,7 @@ body {
     }
 .logo{
     width: 100%;
+    flex-direction: column
 }
 
 p {
