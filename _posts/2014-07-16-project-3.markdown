@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: woodbee2.png
+img: woodbeelogo.jpg
 img1: vest_signin.jpg
 img2: vest_home1.jpg
 img3: vest_search1.jpg
