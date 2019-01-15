@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: jewellogo.png
+img: jewellogo.jpg
 img1: vest_signin.jpg
 img2: vest_home1.jpg
 img3: vest_search1.jpg
