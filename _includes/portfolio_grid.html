@@ -9,7 +9,7 @@
         </div>
         <div class="row">
             {% for post in site.posts %}
-            <div class="col-sm-4 portfolio-item">
+            <div class="col-sm-4 portfolio-item d-flex flex-row justify-content-start align-items-center">
                 <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                     <div class="caption">
                         <div class="caption-content">
@@ -18,7 +18,6 @@
                     </div>
                     <div class="img-holder align-items-center">
                         <img src="img/portfolio/{{ post.img }}" class="img-responsive align-self-center" alt="{{ post.alt }}">
-                        <p>Breif decrsiption of the project</p>
                     </div>
                 </a>
             </div>
