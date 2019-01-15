@@ -8,5 +8,6 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Dynamic ecommerce website built with the Ruby on Rails frmework using Amazon Web Services environment.
+title: JEWEL
 
 ---
