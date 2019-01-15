@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: JEWEL ecommerce site
-
+date: 2014-07-17
 img: jewel.png
 alt: image-alt
 project-date: August 2018
