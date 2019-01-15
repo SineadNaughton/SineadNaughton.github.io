@@ -2,6 +2,7 @@
 layout: default
 modal-id: 1
 date: 2018-01-15
+title: VESTIMONY: Android Mobile Application
 img: home.PNG
 img1: vest_signin.jpg
 img2: vest_home1.jpg
