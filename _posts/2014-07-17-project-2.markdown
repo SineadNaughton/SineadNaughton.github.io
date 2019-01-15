@@ -3,6 +3,9 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: jewel2.png
+img1: vest_signin.jpg
+img2: vest_home1.jpg
+img3: vest_search1.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

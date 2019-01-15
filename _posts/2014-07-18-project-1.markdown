@@ -3,6 +3,9 @@ layout: default
 modal-id: 1
 date: 2018-01-15
 img: home.PNG
+img1: vest_signin.jpg
+img2: vest_home1.jpg
+img3: vest_search1.jpg
 alt: image-alt
 project-date: Dec 2018
 client: Start Bootstrap
