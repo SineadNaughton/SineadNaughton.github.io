@@ -7,9 +7,9 @@
                 <hr class="star-primary">
             </div>
         </div>
-        <div class="row">
+        <div class="row flex-row justify-content-start align-items-center">
             {% for post in site.posts %}
-            <div class="col-sm-4 portfolio-item d-flex flex-row justify-content-start align-items-center">
+            <div class="col-sm-4 portfolio-item d-flex">
                 <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                     <div class="caption">
                         <div class="caption-content">
