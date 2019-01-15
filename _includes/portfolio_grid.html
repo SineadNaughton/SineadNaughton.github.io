@@ -21,24 +21,5 @@
             </div>
             {% endfor %}
         </div>
-
-        <div class="card-deck">
-           
-                {% for post in site.posts %}
-                <div class="col-sm-6">
-                    <div class="card">
-                        <img class="card-img-top img-responsive" src="img/portfolio/{{ post.img }}" alt="Card image cap">
-                        <div class="card-body">
-                            <h5 class="card-title">{{post.title}}</h5>
-                            <p class="card-text">{{post.description}}</p>
-                            <a href="#" class="btn btn-primary">Go to code</a>
-                            <a href="#" class="btn btn-primary">Go to demo</a>
-                        </div>
-                    </div>
-                </div>
-
-                {% endfor %}
-           
-        </div>
     </div>
 </section>
