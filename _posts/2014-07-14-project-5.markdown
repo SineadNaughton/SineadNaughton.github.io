@@ -3,7 +3,7 @@ title: Morra Game - A simple java application
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: morra_logo.png
+img: morra.png
 code: https://github.com/SineadNaughton/Morra
 alt: image-alt
 project-date: April 2014
