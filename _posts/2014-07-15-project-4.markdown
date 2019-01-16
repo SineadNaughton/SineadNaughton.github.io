@@ -3,6 +3,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: bankapi_logo.png
+img1: bankapi_screenshot.png
 title: Bank - RESTful API
 clientcode: https://github.com/SineadNaughton/OnlineBankClient
 apicode: https://github.com/SineadNaughton/OnlinBankCa3
