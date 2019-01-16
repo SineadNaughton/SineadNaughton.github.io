@@ -5,13 +5,10 @@ date: 2014-07-16
 img: woodbee_logo.png
 img1: woodbee_home.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
 site: http://woodbeedesigns.com
 site-name: woodbeedesigns.com
 code: https://github.com/SineadNaughton/woodbeedesigns.com
 title: Wood Bee Designs - Static Website
-category: Web Development
 description: A static website designed and built for a carpentry company based in Rinn Co.Waterford. This website is built in HTML, CSS, and JavaScrit. It was build without the use of any frameworks as was the brief of the project.  
 
 ---

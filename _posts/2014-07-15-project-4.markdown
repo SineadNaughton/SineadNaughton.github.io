@@ -4,10 +4,10 @@ modal-id: 4
 date: 2014-07-15
 img: bankapi_logo.png
 title: Bank - RESTful API
+clientcode: https://github.com/SineadNaughton/OnlineBankClient
+apicode: https://github.com/SineadNaughton/OnlinBankCa3
+presentation: https://www.youtube.com/watch?v=P57vojrJVTU&t=2s
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: This was project to create a RESTful API for an online bank and desktop client. The API is build using Maven, a jersey servlet and JAX-RS. The grade recieved was 90%.
 
 ---
