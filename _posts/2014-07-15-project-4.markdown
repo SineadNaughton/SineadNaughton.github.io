@@ -7,7 +7,8 @@ title: Bank - RESTful API
 clientcode: https://github.com/SineadNaughton/OnlineBankClient
 apicode: https://github.com/SineadNaughton/OnlinBankCa3
 presentation: https://www.youtube.com/watch?v=P57vojrJVTU&t=2s
+documentation: https://drive.google.com/open?id=1omyL3rC_eGFB_5zoQUASzMx2PkIAbRU-
 alt: image-alt
-description: This was project to create a RESTful API for an online bank and desktop client. The API is build using Maven, a jersey servlet and JAX-RS. The grade recieved was 90%.
+description: This was project to create a RESTful API for an online bank and desktop client. The API is build using Maven, a jersey servlet and JAX-RS. It is accompanied by a basic desktop client to test the API. The client was built in java using the swing package.
 
 ---

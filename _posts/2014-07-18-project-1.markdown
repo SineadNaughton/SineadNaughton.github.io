@@ -13,7 +13,8 @@ project-date: Dec 2018
 client: Start Bootstrap
 clientcode: https://github.com/SineadNaughton/Vestimony-Client
 apicode: https://github.com/SineadNaughton/VestimonyAPI
+documentation: https://drive.google.com/open?id=1qvRKff6S2GA07vlkGWtxH5D7H-g9e8UO
 category: Web Development
-description: This is a social-commerce android mobile app I developed called VESTIMONY. I developed the application from concept initialization to finished applciaiton. The app allows users to post fashion inspiration and review clothing that is available to buy online. It is a distributed system. The backend is a RESTful API built using the Spring Boot framework, and a MySQL database. The front end is a web client built in Angular, and an android mobile application built in Android Studio that renders the web client in a web view. 
+description: VESTIMONY is a social-commerce fashion Android application. It allows users to post fashion inspiration and review clothing that is available to buy online. I developed the application from concept initialization to the finished application. It is a distributed system. The backend is a RESTful API built using the Spring Boot framework, and a MySQL database. The front end is a web client built in Angular, and an android mobile application built in Android Studio that renders the web client in a web view.
 
 ---

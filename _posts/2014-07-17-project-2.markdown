@@ -9,8 +9,9 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 code: https://github.com/SineadNaughton/jewelproject
+documentation: https://drive.google.com/open?id=1lLexUrKpzCYMqzfOhceefL70acakBFFO
 category: Web Development
-description: Dynamic ecommerce website built with the Ruby on Rails frmework using Amazon Web Services environment.
+description: JEWEL is a dynamic ecommerce site for a jewellery brand. It was developed using the Ruby on Rails framework in the Amazon Web Services environment. The site has a simplistic and clean aesthetic, with a considered user flow. Detailed product filtering and a customised user area are two of the key features in the site.  
 title: JEWEL - Dynamic Website
 
 ---

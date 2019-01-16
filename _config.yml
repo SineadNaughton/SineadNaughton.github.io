@@ -2,9 +2,9 @@
 title: Sinead Naughton
 email: sinead.m.naughton@gmail.com
 url: https://sineadnaughton.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Software and Web Developer"
+description: "Portfolio for a full-stack software developer"
+keywords: "software developer, software engineer, java, web design, html, css, spring, angular, ruby, ruby on rails, rest, restful api"
+skills: "A full-stack software developer who loves coding and problem solving"
 meta_author: Sinead Naughton
 
 # Google webmaster tools
@@ -34,8 +34,7 @@ color:
 footer:
   copyright: Sinead Naughton
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Online
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,9 +47,6 @@ social:
 address:
   - line: Cork
   - line: Ireland
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
