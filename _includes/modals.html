@@ -31,31 +31,31 @@
                         <ul class="list-inline item-details">
                             {% if post.code %}
                             <li>
-                                <strong><a href="{{ post.code }}">Full Code</a>
+                                <strong><a href="{{ post.code }}" target="_blank">Full Code</a>
                                 </strong>
                             </li>
                             {% endif %}
                             {% if post.clientcode %}
                             <li>
-                                <strong><a href="{{ post.clientcode }}">Client Code</a>
+                                <strong><a href="{{ post.clientcode }}" target="_blank">Client Code</a>
                                 </strong>
                             </li>
                             {% endif %}
                             {% if post.apicode %}
                             <li>
-                                <strong><a href="{{ post.apicode }}">API Code</a>
+                                <strong><a href="{{ post.apicode }}" target="_blank">API Code</a>
                                 </strong>
                             </li>
                             {% endif %}
-                            {% if post.project-date %}
+                            {% if post.site %}
                             <li>Date:
-                                <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                <strong><a href="{{ post.site }}" target="_blank">{{ post.site-name }}</a>
                                 </strong>
                             </li>
                             {% endif %}
-                            {% if post.category %}
+                            {% if post.presentation %}
                             <li>Service:
-                                <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                <strong><a href="{{ post.presentation }}" target="_blank">{{ post.presentation }}</a>
                                 </strong>
                             </li>
                             {% endif %}

@@ -11,6 +11,6 @@ client: Start Bootstrap
 code: https://github.com/SineadNaughton/jewelproject
 category: Web Development
 description: Dynamic ecommerce website built with the Ruby on Rails frmework using Amazon Web Services environment.
-title: JEWEL
+title: JEWEL - Dynamic Website
 
 ---
